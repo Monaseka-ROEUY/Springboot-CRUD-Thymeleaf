@@ -52,7 +52,7 @@ Once the application is running, you can access it at `http://localhost:8080/pro
 ## Screenshots
 
 ### Home Page
-![List Products](src\main\resources\screenshorts\home.png)
+![](https://github.com/Monaseka-ROEUY/Springboot-CRUD-Thymeleaf/blob/main/src/main/resources/screenshorts/home.png)
 
 ### Create Product
 ![Create Product](src\main\resources\screenshorts\create.png)
