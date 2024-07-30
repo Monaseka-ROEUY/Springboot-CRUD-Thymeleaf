@@ -52,14 +52,14 @@ Once the application is running, you can access it at `http://localhost:8080/pro
 ## Screenshots
 
 ### Home Page
-![List Products](\src\main\resources\screenshorts\home.png)
+![List Products](src\main\resources\screenshorts\home.png)
 
 ### Create Product
-![Create Product](\src\main\resources\screenshorts\create.png)
+![Create Product](src\main\resources\screenshorts\create.png)
 
 ### Edit Product
-![Edit Product](\src\main\resources\screenshorts\edit.png)
+![Edit Product](src\main\resources\screenshorts\edit.png)
 
 ### Search Product by name
-![Search Product](\src\main\resources\screenshorts\iphone.png)
-![Search Product](\src\main\resources\screenshorts\samsung.png)
+![Search Product](src\main\resources\screenshorts\iphone.png)
+![Search Product](src\main\resources\screenshorts\samsung.png)
